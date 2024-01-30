@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('assets/TikTokFont-Regular.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('assets/TikTokFont-Bold.woff2') format('woff2');
+  font-weight: 600;
+}
+
+body {
+  margin: 0;
+  font-family: 'Proxima Nova', Arial, Tahoma, PingFangSC, sans-serif, 'Seoge UI Emoji', 'Noto Emoji';
+
+}
+
